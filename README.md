@@ -42,7 +42,7 @@ Follow these steps to set up and run the project on your local machine.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/](https://github.com/)[YOUR_GITHUB_USERNAME]/docu-bot-streamlit.git
+    git clone [https://github.com/](https://github.com/)https://github.com/architpr/docu-bot
     cd docu-bot-streamlit
     ```
 
