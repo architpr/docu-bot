@@ -7,7 +7,7 @@ import io
 
 # Import the LangChain components
 from langchain_community.document_loaders import PyPDFLoader, TextLoader, WebBaseLoader
-from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain_community.text_splitters import RecursiveCharacterTextSplitter
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_community.vectorstores import Chroma
 from langchain_groq import ChatGroq
