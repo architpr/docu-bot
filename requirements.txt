@@ -1,12 +1,9 @@
-streamlit
-python-dotenv
-gtts
+fastapi
+uvicorn[standard]
 langchain
 langchain-community
 langchain-groq
-langchain_huggingface
-pypdf
-beautifulsoup4
-requests
-sentence-transformers
 chromadb
+sentence-transformers
+python-dotenv
+unstructured
