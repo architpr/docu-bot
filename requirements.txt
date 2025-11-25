@@ -4,6 +4,7 @@ gtts
 langchain
 langchain-community
 langchain-groq
+langchain_huggingface
 pypdf
 beautifulsoup4
 requests
